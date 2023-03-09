@@ -1,7 +1,8 @@
 import InsertBetween from "./projects/InsertBetween";
+import ShoppingQueue from "./projects/ShoppingQueue";
 
 function App() {
-    return <InsertBetween />;
+    return <ShoppingQueue />;
 }
 
 export default App;
